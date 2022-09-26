@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c7d36b17.css",
+    "main.js": "/static/js/main.13a2a9ed.js",
+    "static/media/startsidakontaktaoss2020-1.png": "/static/media/startsidakontaktaoss2020-1.23c688db8e5c0fdcdc9b.png",
+    "static/media/blog03.png": "/static/media/blog03.8bb46ef53e088dff667e.png",
+    "static/media/omoss.png": "/static/media/omoss.50df8af0fe7271f41809.png",
+    "static/media/header01.png": "/static/media/header01.a9827ef9eaa663f1a346.png",
+    "static/media/blog02.png": "/static/media/blog02.c95c733dcfee2d2034bc.png",
+    "static/media/blog08.png": "/static/media/blog08.6a30098ba117243b5930.png",
+    "static/media/blog05.png": "/static/media/blog05.2f4e23baa0276d201930.png",
+    "static/media/blog00.png": "/static/media/blog00.4c88ed6186ea1f7e4004.png",
+    "static/media/blog07.png": "/static/media/blog07.bd1bbb96ee0640b33f95.png",
+    "static/media/blog04.png": "/static/media/blog04.448e022cea1507e7136a.png",
+    "static/media/blog01.png": "/static/media/blog01.a620adbed21e87decf27.png",
+    "static/media/header02.png": "/static/media/header02.45e60f691d443f85ad1c.png",
+    "static/media/blog06.png": "/static/media/blog06.9567bc95e9ad3b8d3af4.png",
+    "static/media/logo.png": "/static/media/logo.5ad8c8682bae54cba9ae.png",
+    "static/media/logo2.png": "/static/media/logo2.54ec44ae45ba4adc4187.png",
+    "static/media/unknown.png": "/static/media/unknown.48330216e6b77da3390b.png",
+    "static/media/email.png": "/static/media/email.4a92cd66c84c2240f9d1.png",
+    "index.html": "/index.html",
+    "main.c7d36b17.css.map": "/static/css/main.c7d36b17.css.map",
+    "main.13a2a9ed.js.map": "/static/js/main.13a2a9ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7d36b17.css",
+    "static/js/main.13a2a9ed.js"
+  ]
+}
